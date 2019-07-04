@@ -1,1 +1,1 @@
-# minimalist-monochrome-mac-icons
+# Minimalist Monochrome Mac Icons
