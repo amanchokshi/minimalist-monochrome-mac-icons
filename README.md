@@ -1,10 +1,14 @@
 ## Minimalist Monochrome Mac Icons
 
 ### Look & Feel
-Replacing the default colourful mac icons with these minimalist monochrome icons will create a visually elegeant workspace.
+Replace the default mac icons with these minimalist monochrome icons to create a visually elegeant workspace.
 
 <p align="center">
 <img alt="Minimalist Monochrome Mac Icons" src="images/Desktop.png"/>
 </p>
 
-These icons are inspired by [OSX CUSTOMIZED ICONS](https://www.fadyucf.com/osx-dock-icons).
+<p align="center">
+<img alt="Minimalist Monochrome Mac Icons" src="images/Launchpad.png"/>
+</p>
+
+These icons are inspired by <span style="color:red">[www.fadyucf.com](https://www.fadyucf.com/osx-dock-icons).</span>
