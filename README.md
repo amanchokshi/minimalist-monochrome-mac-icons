@@ -13,4 +13,4 @@ Replace the default mac icons with these minimalist monochrome icons to create a
 
 These icons are inspired by <span style="color:red">[www.fadyucf.com](https://www.fadyucf.com/osx-dock-icons).</span>
 
-## Usage
+### Usage
