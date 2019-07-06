@@ -7,9 +7,6 @@ Replace the default mac icons with these minimalist monochrome icons to create a
 <img alt="Minimalist Monochrome Mac Icons" src="images/Desktop.png"/>
 </p>
 
-<p align="center">
-<img alt="Minimalist Monochrome Mac Icons" src="images/Launchpad.png"/>
-</p>
 
 These icons are inspired by <span style="color:red">[www.fadyucf.com](https://www.fadyucf.com/osx-dock-icons).</span>
 
