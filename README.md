@@ -26,19 +26,24 @@ These icons are inspired by [www.fadyucf.com](https://www.fadyucf.com/osx-dock-i
 
 2. Right-click the application and select "Get Info" (or press &#8984I on your keyboard).
 
-3. In the top left corner of the Info panel, you’ll see the app’s icon. From here, drag the new icon file over the original. Drop it when you see the green + bubble on your cursor.<p align="left">
+3. In the top left corner of the Info panel, you’ll see the app’s icon. From here, drag the new icon file over the original. Drop it when you see the green + bubble on your cursor.
+
+ <p align="left">
 <img alt="Change Mac Icon" src="images/Change-icon.png"/>
-</p> Alternately, you can right-click on the new icon file and choose "Copy", or select the file
-and press &#8984C. Return to the Info panel, highlight the original icon in the top left corner, and press &#8984V to paste it.
+</p>
+
+Alternately, you can right-click on the new icon file and choose "Copy", or select the file and press &#8984C. Return to the Info panel, highlight the original icon in the top left corner, and press &#8984V to paste it.
 
  **NOTE**: OS X may ask you for your administrative password; enter it to paste the icon.
 
-4. If the application is already in your Dock, the new icon may not show up until you log out. To fix this, open Terminal (Applications > Utilities > Terminal), type “killall Dock” (without quotes), and press Enter. <p align="left">
+4. If the application is already in your Dock, the new icon may not show up until you log out. To fix this, open Terminal (Applications > Utilities > Terminal), type “killall Dock” (without quotes), and press Enter.
+
+ <p align="left">
 <img alt="Killall Dock Terminal" src="images/Killall-dock.png"/>
 
  **NOTE**: Terminal may look somewhat different for you, and that’s fine.
 
-**PS**: If you have trouble changing a particular icon, or if you simply are not able to change a particular icon, refer to the *ERRORS* section at the bottom of this document.
+**PS**: If you have trouble changing a particular icon, or if you simply are not able to change a particular icon, refer to the **ERRORS** section at the bottom of this document.
 
 #### III. REVERT BACK TO ORIGINAL ICON
 
