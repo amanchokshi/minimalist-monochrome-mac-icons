@@ -8,7 +8,7 @@ Replace the default mac icons with these minimalist monochrome icons to create a
 </p>
 
 
-These icons are inspired by [www.fadyucf.com](https://www.fadyucf.com/osx-dock-icons). The following documentation is also adapted from the same website.
+These icons are inspired by [www.fadyucf.com](https://www.fadyucf.com/osx-dock-icons). The following documentation is also adapted from the Fady's website.
 
 ### INSTALLATION
 
