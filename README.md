@@ -85,7 +85,7 @@ If, for whatever reason, you decide to switch back to the app’s original icon,
 
  8. The Dock will relaunch and show the new Finder icon.
 
-If you want to revert back to the default Finder Dock icon, simply use the Go To Folder keystroke again, then copy the backups you made of “finder@2x.png” and “finder.png” to the following directory again:
+If you want to revert back to the default Finder Dock icon, simply use the Go To Folder keystroke again, then copy the backups you made of “finder2x.png” and “finder.png” to the following directory again:
 
  */System/Library/CoreServices/Dock.app/Contents/Resources/*
 
@@ -103,7 +103,7 @@ If you’re feeling like customizing things even further, you’ll find the Dock
 
 3. Click on Contents > Resources
 
-4. Scroll down to find the files “trashempty.png”, “trashempty@2x.png”, etc. Back them up.
+4. Scroll down to find the files “trashempty.png”, “trashempty2x.png”, etc. Back them up.
 
 5. Replace old icons with new ones, and delete the reflections. They aren’t needed.
 
