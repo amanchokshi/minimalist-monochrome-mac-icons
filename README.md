@@ -159,3 +159,7 @@ To modify the icons for these applications, you will have to temporarily disable
 
 To re-enable System Integrity Protection, repeat the above steps but type:
 __*csrutil enable*__
+
+#### NEW ICONS
+
+Message me if there are new icons which you'd like me to add to this collection, and I'll try and make them :)
