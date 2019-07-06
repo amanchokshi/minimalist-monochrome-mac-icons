@@ -24,7 +24,7 @@ These icons are inspired by [www.fadyucf.com](https://www.fadyucf.com/osx-dock-i
 
 1. Use Finder to navigate to the Applications folder of your Mac and select the application for which you want to change the icon.
 
-2. Right-click the application and select "Get Info" (or press &#8984I on your keyboard).
+2. Right-click the application and select "Get Info" (or press Command+I on your keyboard).
 
 3. In the top left corner of the Info panel, you’ll see the app’s icon. From here, drag the new icon file over the original. Drop it when you see the green + bubble on your cursor.
 
@@ -32,7 +32,7 @@ These icons are inspired by [www.fadyucf.com](https://www.fadyucf.com/osx-dock-i
 <img alt="Change Mac Icon" src="images/Change-icon.png"/>
 </p>
 
-Alternately, you can right-click on the new icon file and choose "Copy", or select the file and press &#8984C. Return to the Info panel, highlight the original icon in the top left corner, and press &#8984V to paste it.
+Alternately, you can right-click on the new icon file and choose "Copy", or select the file and press &#8984C. Return to the Info panel, highlight the original icon in the top left corner, and press Command+V to paste it.
 
  **NOTE**: OS X may ask you for your administrative password; enter it to paste the icon.
 
@@ -51,7 +51,7 @@ If, for whatever reason, you decide to switch back to the app’s original icon,
 
 1. Use Finder to navigate to the Applications folder of your Mac and select the app for which you want to revert the icon.
 
-2. Right-click the application and select "Get Info" (or press &#8984I on your keyboard).
+2. Right-click the application and select "Get Info" (or press Command+I on your keyboard).
 
 3. In the top left corner of the Info panel, you’ll see the app’s icon. Click on it to highlight it.
 
