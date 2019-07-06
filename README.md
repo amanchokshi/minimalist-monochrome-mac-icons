@@ -32,7 +32,7 @@ These icons are inspired by [www.fadyucf.com](https://www.fadyucf.com/osx-dock-i
 <img alt="Change Mac Icon" src="images/Change-icon.png"/>
 </p>
 
-Alternately, you can right-click on the new icon file and choose "Copy", or select the file and press &#8984C. Return to the Info panel, highlight the original icon in the top left corner, and press Command+V to paste it.
+Alternately, you can right-click on the new icon file and choose "Copy", or select the file and press Command+C. Return to the Info panel, highlight the original icon in the top left corner, and press Command+V to paste it.
 
  **NOTE**: OS X may ask you for your administrative password; enter it to paste the icon.
 
@@ -67,7 +67,7 @@ If, for whatever reason, you decide to switch back to the app’s original icon,
 
  */System/Library/CoreServices/Dock.app/Contents/Resources/*
 
- 2. Locate the file named “finder.png” and “finder@2x.png” and make a copy of these to the Desktop or somewhere else, these will serve as a backups.
+ 2. Locate the file named "finder.png" and "finder@2x.png" and make a copy of these to the Desktop or somewhere else, these will serve as a backups.
 
 3. Locate "finder.png" and "finder@2x.png" from the downloaded icons folder. Drag & drop these two files into the  Resources folder, authenticate the change and choose “Replace”
 
