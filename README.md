@@ -67,9 +67,9 @@ If, for whatever reason, you decide to switch back to the app’s original icon,
 
  */System/Library/CoreServices/Dock.app/Contents/Resources/*
 
- 2. Locate the file named "finder.png" and "finder@2x.png" and make a copy of these to the Desktop or somewhere else, these will serve as a backups.
+ 2. Locate the file named "finder.png" and "finder2x.png" and make a copy of these to the Desktop or somewhere else, these will serve as a backups.
 
-3. Locate "finder.png" and "finder@2x.png" from the downloaded icons folder. Drag & drop these two files into the  Resources folder, authenticate the change and choose “Replace”
+3. Locate "finder.png" and "finder2x.png" from the downloaded icons folder. Drag & drop these two files into the  Resources folder, authenticate the change and choose “Replace”
 
 4. Still in the Finder, hit Command+Shift+G again and this time go to the following path:
 
