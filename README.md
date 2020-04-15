@@ -163,3 +163,9 @@ __*csrutil enable*__
 #### NEW ICONS
 
 Message me if there are new icons which you'd like me to add to this collection, and I'll try and make them :)
+
+##### Colors
+
+Dark:  #2d2d2d
+Light: #717171
+
